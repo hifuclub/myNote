@@ -1,0 +1,2 @@
+[save place=0 ask=false]
+[load place=0 ask=false]

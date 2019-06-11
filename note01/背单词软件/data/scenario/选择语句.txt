@@ -1,0 +1,6 @@
+[if exp="f.test>=5"]
+选择了有利于好感度上升的选项呢。[l][r]
+[endif]
+[if exp="f.test<5"]
+好感度还不够，继续加油咯[l][r]
+[endif]
