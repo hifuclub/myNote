@@ -5,6 +5,6 @@
 模型渲染后无法显示正面
 上网一番查找,后来发现是因为淘宝买的模型,在制作胳膊使用镜像后导致一侧身体的法线翻转指向内部
 
-![Image text](http://pt2wwev3y.bkt.clouddn.com/title03_15.png)
+![Image text](https://github.com/hifuclub/myNote/blob/master/mote3_15/title03_15.png)
 
 在重新倒入C4D后,选择错误的控件,翻转法线,成功解决了该问题
