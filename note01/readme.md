@@ -8,4 +8,4 @@
 
 演讲预览视频见文件
 
-高清视频:http://pt2wwev3y.bkt.clouddn.com/VID_20180313_214046.flv
+高清视频:http://nas.renko.xyz:7070/manager/VID_20180313_214046.flv
